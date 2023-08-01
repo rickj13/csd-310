@@ -1,1 +1,2 @@
-print("hello, my new beautiful world!")
+print("hello, my new pink beautiful world!")
+
